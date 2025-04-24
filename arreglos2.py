@@ -1,5 +1,5 @@
 #[] = #arreglos ( permiten almacenar múltiples valores de un mismo tipo en una variable)
-#len mprime el tamaño de un caracter, lista, etc 
+#len imprime el tamaño de un caracter, lista, etc 
 
 
 
